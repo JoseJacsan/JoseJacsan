@@ -1,6 +1,6 @@
 ## Olá eu sou o José Jacsan
 
-- 🌱 Estudando Front-End
+🌱 Estudando Front-End
 
 <div align="center">
   <a href="https://github.com/JoseJacsan">
